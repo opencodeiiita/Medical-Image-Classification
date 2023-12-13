@@ -1,0 +1,8 @@
+This task is all about loading and understanding the data.
+
+1. Don't change any prewritten comments and code. And follow instructions given.
+2. There is excess time given in this task to study given images and revise your DL skills.
+3. Save your final .ipynb file in Task1_solutions folder.
+
+Resources:
+    1. https://www.geeksforgeeks.org/opencv-overview/
