@@ -1,0 +1,11 @@
+Colab file after pre-processing:
+
+	'''
+		link to colab file with permission in **read mode** to "iit2022119@iiita.ac.in"
+	'''
+
+Colab file after augmenting train images:
+
+	'''
+		link to colab file with permission in **read mode** to "iit2022119@iiita.ac.in"
+	'''
