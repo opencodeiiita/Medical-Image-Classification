@@ -1,0 +1,5 @@
+1. For Imbalanced dataset: https://www.geeksforgeeks.org/imbalanced-learn-module-in-python/
+
+2. For Pre-processing and Augmentation:
+	: https://www.analyticsvidhya.com/blog/2020/08/image-augmentation-on-the-fly-using-keras-imagedatagenerator/
+	: https://www.analyticsvidhya.com/blog/2023/03/getting-started-with-image-processing-using-opencv/
