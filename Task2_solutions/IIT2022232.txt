@@ -1,1 +1,1 @@
-collab link: https://github.com/tavva-srinivas/Medical-Image-Classification/blob/Dev/Task2_solutions/IIT2022232.txt
+collab link: https://colab.research.google.com/drive/1sy1af0sZHs-2xhYgK7dS-66sa1uPvp7X?usp=sharing
