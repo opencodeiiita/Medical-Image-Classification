@@ -7,7 +7,7 @@ Colab file after pre-processing:
 Colab file after augmenting train images:
 
 	'''
-		https://colab.research.google.com/drive/1kuXSOrH1sVexs5n8oQlsWbtuVaWbfka7?usp=sharing
+		https://colab.research.google.com/drive/1LM-CiFZ0QN_Bc5wHmRUmahRBXN6Ea73n?usp=sharing
 	'''
 
 
