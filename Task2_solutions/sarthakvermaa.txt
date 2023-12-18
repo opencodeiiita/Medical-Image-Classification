@@ -1,0 +1,11 @@
+Colab file after pre-processing:
+
+	'''
+		https://colab.research.google.com/drive/1_OmQODk9gOBD4QnhTgZjopMwgyPGTWJg?usp=sharing
+	'''
+
+Colab file after augmenting train images:
+
+	'''
+		https://colab.research.google.com/drive/1_OmQODk9gOBD4QnhTgZjopMwgyPGTWJg?usp=sharing
+	'''
