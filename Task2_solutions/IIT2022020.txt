@@ -7,5 +7,5 @@ Colab file after pre-processing:
 Colab file after augmenting train images:
 
 	'''
-		link to colab file with permission in **read mode** to "iit2022119@iiita.ac.in"
+		https://drive.google.com/file/d/1VrFbwIkiqfCKxcfCwrcvfhrtNA-1-hcw/view?usp=sharing
 	'''
