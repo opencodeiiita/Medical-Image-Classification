@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1VrFbwIkiqfCKxcfCwrcvfhrtNA-1-hcw#scrollTo=lBq-rgPGiIHd
+
+auc test score = 0.9524555903866249
