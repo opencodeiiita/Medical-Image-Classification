@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/16jzSGHbqtDtLLsVT5-FsCS2twwFeOcG8?usp=sharing
+ROC AUC for test data: 0.9831
+model:
+https://drive.google.com/file/d/1Ik1TGAl-0ZVZwY_cAW12ESiG4pOeDBhu/view?usp=sharing
