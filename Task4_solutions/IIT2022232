@@ -1,4 +1,5 @@
 collab link : https://colab.research.google.com/drive/1XoxP7sAPL-oRHYgdGq7I-pMW2iUVioNY?usp=sharing
 outputs loss,acc,auc : https://drive.google.com/file/d/1RbAmjEfxRby_3KnXCFvfICJl2WtLLXmQ/view?usp=sharing
-test_accuracy = 93.16
+test_accuracy = 95.73
+auc-roc score = 0.9554367201426025
 saved model: https://drive.google.com/file/d/1-4j6KVdvrAUkHOXL7JZYO2ESwTetf5Yc/view?usp=sharing
