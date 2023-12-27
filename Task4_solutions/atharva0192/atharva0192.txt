@@ -1,0 +1,2 @@
+ROC-AUC score -- 1.0
+https://colab.research.google.com/drive/1uq8ypUXrsiD1yvLCON_1Wp2dfsQJ07JP?usp=sharing

@@ -1,0 +1,15 @@
+collab link : https://colab.research.google.com/drive/1XoxP7sAPL-oRHYgdGq7I-pMW2iUVioNY?usp=sharing
+
+vgg16
+outputs loss,acc,auc : https://drive.google.com/file/d/1RbAmjEfxRby_3KnXCFvfICJl2WtLLXmQ/view?usp=sharing
+val_accuracy = 91
+test_accuracy = 95.73
+saved_model = https://drive.google.com/file/d/1-4j6KVdvrAUkHOXL7JZYO2ESwTetf5Yc/view?usp=sharing
+
+Resnet50
+output loss,acc,auc = https://drive.google.com/file/d/1cEcf5LoiN_lAX-C0g6HHncfRIdGAHEzm/view?usp=sharing
+val_accuracy = 98.72
+test_accuracy = 95.73
+auc-roc score = 0.9576648841354723
+saved model: https://drive.google.com/file/d/11Z52Hn2pwiXj4vPft6hpV6737ZK2U16p/view?usp=drive_link
+confusion_matrix : https://drive.google.com/file/d/1ExV8fwnp0upCLOFYTp5gKbwIEx5tVSB5/view?usp=sharing
